@@ -28,11 +28,9 @@ Soy un PhD student en el IIIA-CSIC cuya investigacion se centra en el problema d
 
 # Research Interests
 
-- Artificial Intelligence and Economic Growth
-- Productivity and Innovation
-- Digital Transformation
-- Labor Economics
-- Public Policy Evaluation
+- Boolean Optimization
+- Proof Complexity
+- Boolean Satisfability
 
 ---
 
