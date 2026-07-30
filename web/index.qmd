@@ -1,0 +1,144 @@
+---
+title: titulo
+---
+
+::: {.columns .v-center}
+
+::: {.column width="35%"}
+
+assets/profile.jpg{width=80%}
+
+:::
+
+::: {.column width="65%"}
+
+# Ion Mikel Liberal
+
+### PhD Student
+
+Welcome to my academic website.
+
+Soy un PhD student en el IIIA-CSIC cuya investigacion se centra en el problema de MaxSAT, tanto desde un punto de vista teorico como practico.
+
+:::
+
+:::
+
+---
+
+# Research Interests
+
+- Artificial Intelligence and Economic Growth
+- Productivity and Innovation
+- Digital Transformation
+- Labor Economics
+- Public Policy Evaluation
+
+---
+
+# Working Papers
+
+## AI Adoption and Firm Productivity
+
+Working paper.
+
+Brief description of the project.
+
+## Digital Transformation and Labor Markets
+
+Work in progress.
+
+Brief description of the project.
+
+---
+
+# Publications
+
+## 2026
+
+**Artificial Intelligence and Productivity**
+
+Journal Name.
+
+## 2025
+
+**Digital Transformation and Economic Growth**
+
+Journal Name.
+
+## 2024
+
+**Innovation and Economic Development**
+
+Journal Name.
+
+---
+
+# Teaching
+
+## Current Courses
+
+- Econometrics
+- Data Analytics
+- Macroeconomics
+
+## Previous Courses
+
+- Statistics
+- Economic Policy
+- Quantitative Methods
+
+---
+
+# Curriculum Vitae
+
+## Education
+
+## Degree in Mathematics
+
+Universidad del País Vasco (UPV-EHU)
+
+Degree Thesis:
+
+### Máster en Modelización e Investigación Matemática, Estadística y Computación
+
+Universidad del País Vasco (UPV-EHU)
+
+Master Thesis:
+
+## Master in Pure and Applied Logic
+
+Universitat de Barcelona (UB) / Universitat Politecnica de Catalunya (UPC)
+
+Master Thesis:
+
+
+
+You can download my full CV here:
+
+cv.pdf
+
+---
+
+# Contact
+
+**Email**
+
+ion.mikel.liberal@iiia.csic.es
+
+**Office**
+
+Instituto de Investigación en Inteligencia Artificial (IIIA-CSIC)
+
+
+**ORCID**
+
+https://orcid.org
+
+**GitHub**
+
+https://github.com
+
+**LinkedIn**
+
+https://linkedin.com
