@@ -14,12 +14,9 @@ assets/profile.jpg{width=80%}
 
 # Ion Mikel Liberal
 
-### PhD Student
 
-Welcome to my academic website.
 
-Soy un PhD student en el IIIA-CSIC cuya investigacion se centra en el problema de MaxSAT, tanto desde un punto de vista teorico como practico.
-
+I am a PhD student in IIIA-CSIC and I am studying MaxSAT both from a practical and theoretical point of view. On the one side, my work focuses on the design of new algorithms inside the SAT-based paradigm. On the other side, I studied the strengths and limitations of these algorithms through the proof complexity of the induced proof systems. 
 :::
 
 :::
