@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "titulo",
     "section": "",
-    "text": "assets/profile.jpg{width=80%}\n\n\n\nI am a PhD student in IIIA-CSIC and I am studying MaxSAT both from a practical and theoretical point of view. On the one side, my work focuses on the design of new algorithms inside the SAT-based paradigm. On the other side, I studied the strengths and limitations of these algorithms through the proof complexity of the induced proof systems."
+    "text": "assets/profile.jpg{width=80%}\n\n\n\nI am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC), where I study MaxSAT from both practical and theoretical perspectives. My research focuses on the design of new algorithms within the SAT-based paradigm, as well as on understanding their strengths and limitations through the lens of proof complexity. Outside my main research area, I am deeply interested in pure logic and the foundations of mathematics."
   },
   {
     "objectID": "index.html#ai-adoption-and-firm-productivity",
@@ -25,35 +25,7 @@
     "href": "index.html#section",
     "title": "titulo",
     "section": "2026",
-    "text": "2026\nArtificial Intelligence and Productivity\nJournal Name."
-  },
-  {
-    "objectID": "index.html#section-1",
-    "href": "index.html#section-1",
-    "title": "titulo",
-    "section": "2025",
-    "text": "2025\nDigital Transformation and Economic Growth\nJournal Name."
-  },
-  {
-    "objectID": "index.html#section-2",
-    "href": "index.html#section-2",
-    "title": "titulo",
-    "section": "2024",
-    "text": "2024\nInnovation and Economic Development\nJournal Name."
-  },
-  {
-    "objectID": "index.html#current-courses",
-    "href": "index.html#current-courses",
-    "title": "titulo",
-    "section": "Current Courses",
-    "text": "Current Courses\n\nEconometrics\nData Analytics\nMacroeconomics"
-  },
-  {
-    "objectID": "index.html#previous-courses",
-    "href": "index.html#previous-courses",
-    "title": "titulo",
-    "section": "Previous Courses",
-    "text": "Previous Courses\n\nStatistics\nEconomic Policy\nQuantitative Methods"
+    "text": "2026\nArtificial Intelligence and Productivity\nJournal Name.\nJournal Name."
   },
   {
     "objectID": "index.html#education",
@@ -74,6 +46,6 @@
     "href": "index.html#master-in-pure-and-applied-logic",
     "title": "titulo",
     "section": "Master in Pure and Applied Logic",
-    "text": "Master in Pure and Applied Logic\nUniversitat de Barcelona (UB) / Universitat Politecnica de Catalunya (UPC)\nMaster Thesis:\nYou can download my full CV here:\ncv.pdf"
+    "text": "Master in Pure and Applied Logic\nUniversitat de Barcelona (UB) / Universitat Politecnica de Catalunya (UPC)\nMaster Thesis:"
   }
 ]

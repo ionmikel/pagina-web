@@ -16,7 +16,7 @@ assets/profile.jpg{width=80%}
 
 
 
-I am a PhD student in IIIA-CSIC and I am studying MaxSAT both from a practical and theoretical point of view. On the one side, my work focuses on the design of new algorithms inside the SAT-based paradigm. On the other side, I studied the strengths and limitations of these algorithms through the proof complexity of the induced proof systems. 
+I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC), where I study MaxSAT from both practical and theoretical perspectives. My research focuses on the design of new algorithms within the SAT-based paradigm, as well as on understanding their strengths and limitations through the lens of proof complexity. Outside my main research area, I am deeply interested in pure logic and the foundations of mathematics.
 :::
 
 :::
@@ -55,33 +55,22 @@ Brief description of the project.
 
 Journal Name.
 
-## 2025
 
-**Digital Transformation and Economic Growth**
-
-Journal Name.
-
-## 2024
-
-**Innovation and Economic Development**
 
 Journal Name.
 
 ---
 
+# Talks
+
+- "Beyond Core-Guided MaxSAT", CP/SAT Doctoral Program 2025, Glasgow.
+- "Beyond Core-Guided MaxSAT", Doctoral Consortium 2025, IIIA-CSIC.
+- "Cardinality Constraints are Hard for Resolution", CP/SAT Doctoral Program 2026, Lisboa.
+- "Cardinality Constraints are Hard for Resolution", Proof Complexity Workshop 2026, Lisboa.
+
 # Teaching
 
-## Current Courses
-
-- Econometrics
-- Data Analytics
-- Macroeconomics
-
-## Previous Courses
-
-- Statistics
-- Economic Policy
-- Quantitative Methods
+- Linear Algebra, laboratorios en la Universidad de Barcelona 2024
 
 ---
 
@@ -108,11 +97,6 @@ Universitat de Barcelona (UB) / Universitat Politecnica de Catalunya (UPC)
 Master Thesis:
 
 
-
-You can download my full CV here:
-
-cv.pdf
-
 ---
 
 # Contact
@@ -128,12 +112,13 @@ Instituto de Investigación en Inteligencia Artificial (IIIA-CSIC)
 
 **ORCID**
 
-https://orcid.org
+https://orcid.org/0009-0000-8160-4292
 
 **GitHub**
 
-https://github.com
+https://github.com/Equipomaxsat/Beyond-Core-Guided-MaxSAT
 
 **LinkedIn**
 
-https://linkedin.com
+www.linkedin.com/in/ion-mikel-liberal-graña-2074301b2
+
