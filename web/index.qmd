@@ -31,33 +31,11 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 
 ---
 
-# Working Papers
-
-## AI Adoption and Firm Productivity
-
-Working paper.
-
-Brief description of the project.
-
-## Digital Transformation and Labor Markets
-
-Work in progress.
-
-Brief description of the project.
-
 ---
 
 # Publications
 
 ## 2026
-
-**Artificial Intelligence and Productivity**
-
-Journal Name.
-
-
-
-Journal Name.
 
 ---
 
