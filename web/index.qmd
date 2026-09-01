@@ -37,6 +37,8 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 
 ## 2026
 
+- "Beyond Core-Guided MaxSAT"  https://doi.org/10.4230/LIPIcs.SAT.2026.9 .
+
 ---
 
 # Talks
@@ -48,7 +50,7 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 
 # Teaching
 
-- Linear Algebra, laboratorios en la Universidad de Barcelona 2024
+- Linear Algebra laboratories in the University of Barcelona, 2024
 
 ---
 
