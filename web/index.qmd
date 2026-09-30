@@ -23,12 +23,6 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 
 ---
 
-# Research Interests
-
-- Boolean Optimization
-- Proof Complexity
-- Boolean Satisfability
-
 ---
 
 ---
@@ -48,36 +42,9 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 - "Cardinality Constraints are Hard for Resolution", CP/SAT Doctoral Program 2026, Lisboa.
 - "Cardinality Constraints are Hard for Resolution", Proof Complexity Workshop 2026, Lisboa.
 
-# Teaching
-
-- Linear Algebra laboratories in the University of Barcelona, 2024
 
 ---
 
-# Curriculum Vitae
-
-## Education
-
-## Degree in Mathematics
-
-Universidad del País Vasco (UPV-EHU)
-
-Degree Thesis:
-
-### Máster en Modelización e Investigación Matemática, Estadística y Computación
-
-Universidad del País Vasco (UPV-EHU)
-
-Master Thesis:
-
-## Master in Pure and Applied Logic
-
-Universitat de Barcelona (UB) / Universitat Politecnica de Catalunya (UPC)
-
-Master Thesis:
-
-
----
 
 # Contact
 
@@ -94,9 +61,6 @@ Instituto de Investigación en Inteligencia Artificial (IIIA-CSIC)
 
 https://orcid.org/0009-0000-8160-4292
 
-**GitHub**
-
-https://github.com/Equipomaxsat/Beyond-Core-Guided-MaxSAT
 
 **LinkedIn**
 
