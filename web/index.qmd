@@ -9,7 +9,7 @@ toc-depth: 3
 
 ::: {.column width="35%"}
 
-![](DSC_0014.jpg){width=80%}
+![](DSC_0014.jpg){width=50%}
 
 [Email](mailto:ion.mikel.liberal@iiia.csic.es) ·
 [ORCID](https://orcid.org/0009-0000-8160-4292) ·
@@ -41,6 +41,8 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 ## 2026
 
 - "Beyond Core-Guided MaxSAT" [DOI](https://doi.org/10.4230/LIPIcs.SAT.2026.9) .
+
+Joint work with Ilario Bonacina and Jordi Levy.
 
 ---
 
