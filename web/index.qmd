@@ -1,22 +1,31 @@
 ---
-title: titulo
+title: Ion Mikel Liberal
+
+toc: true
+toc-depth: 3
 ---
 
 ::: {.columns .v-center}
 
 ::: {.column width="35%"}
 
-assets/profile.jpg{width=80%}
+![](DSC_0014.jpg){width=80%}
+
+[Email](mailto:ion.mikel.liberal@iiia.csic.es) ·
+[ORCID](https://orcid.org/0009-0000-8160-4292) ·
+[LinkedIn](https://www.linkedin.com/in/ion-mikel-liberal-gra%C3%B1a-2074301b2/)
 
 :::
+
 
 ::: {.column width="65%"}
-
-# Ion Mikel Liberal
-
+ 
 
 
-I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC), where I study MaxSAT from both practical and theoretical perspectives. My research focuses on the design of new algorithms within the SAT-based paradigm, as well as on understanding their strengths and limitations through the lens of proof complexity. Outside my main research area, I am deeply interested in pure logic and the foundations of mathematics.
+
+# About me {#aboutme}
+
+I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC), where I study MaxSAT from both practical and theoretical perspectives. My advisors are Jordi Levy and Ilario Bonacina and our research focuses on the design of new algorithms within the SAT-based paradigm, as well as on understanding their strengths and limitations through the lens of proof complexity. Outside my main research area, I am deeply interested in pure logic and the foundations of mathematics.
 :::
 
 :::
@@ -27,42 +36,45 @@ I am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC)
 
 ---
 
-# Publications
+# Publications {#publications}
 
 ## 2026
 
-- "Beyond Core-Guided MaxSAT"  https://doi.org/10.4230/LIPIcs.SAT.2026.9 .
+- "Beyond Core-Guided MaxSAT" [DOI](https://doi.org/10.4230/LIPIcs.SAT.2026.9) .
 
 ---
 
-# Talks
+# Talks {#talks}
 
-- "Beyond Core-Guided MaxSAT", CP/SAT Doctoral Program 2025, Glasgow.
-- "Beyond Core-Guided MaxSAT", Doctoral Consortium 2025, IIIA-CSIC.
-- "Cardinality Constraints are Hard for Resolution", CP/SAT Doctoral Program 2026, Lisboa.
-- "Cardinality Constraints are Hard for Resolution", Proof Complexity Workshop 2026, Lisboa.
+## "Beyond Core-Guided MaxSAT"
+- CP/SAT Doctoral Program 2025, Glasgow.
+<details>
+<summary>View slides</summary>
+ 
+<iframe
+src="slides_Glasgow.pdf"
+width="100%"
+height="700px">
+</iframe>
+ 
+</details>
+  
 
 
+## "Cardinality Constraints are Hard for Resolution"
+-  CP/SAT Doctoral Program 2026, Lisboa.
+-  Proof Complexity Workshop 2026, Lisboa.
+<details>
+<summary>View slides</summary>
+ 
+<iframe
+src="slides_Lisboa.pdf"
+width="100%"
+height="700px">
+</iframe>
+ 
+</details>
 ---
 
 
-# Contact
-
-**Email**
-
-ion.mikel.liberal@iiia.csic.es
-
-**Office**
-
-Instituto de Investigación en Inteligencia Artificial (IIIA-CSIC)
-
-
-**ORCID**
-
-https://orcid.org/0009-0000-8160-4292
-
-
-**LinkedIn**
-
-www.linkedin.com/in/ion-mikel-liberal-graña-2074301b2
 
