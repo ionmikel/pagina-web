@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ion Mikel Liberal",
+    "section": "",
+    "text": "Email · ORCID · LinkedIn\n\n \n\n\nI am a PhD student at the Artificial Intelligence Research Institute (IIIA-CSIC), where I study MaxSAT from both practical and theoretical perspectives. My advisors are Jordi Levy and Ilario Bonacina and our research focuses on the design of new algorithms within the SAT-based paradigm, as well as on understanding their strengths and limitations through the lens of proof complexity. Outside my main research area, I am deeply interested in pure logic and the foundations of mathematics."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Ion Mikel Liberal",
+    "section": "2026",
+    "text": "2026\n\n“Beyond Core-Guided MaxSAT” DOI .\n\nJoint work with Ilario Bonacina and Jordi Levy."
+  },
+  {
+    "objectID": "index.html#beyond-core-guided-maxsat",
+    "href": "index.html#beyond-core-guided-maxsat",
+    "title": "Ion Mikel Liberal",
+    "section": "“Beyond Core-Guided MaxSAT”",
+    "text": "“Beyond Core-Guided MaxSAT”\n\nCP/SAT Doctoral Program 2025, Glasgow.\n\n\nView slides"
+  },
+  {
+    "objectID": "index.html#cardinality-constraints-are-hard-for-resolution",
+    "href": "index.html#cardinality-constraints-are-hard-for-resolution",
+    "title": "Ion Mikel Liberal",
+    "section": "“Cardinality Constraints are Hard for Resolution”",
+    "text": "“Cardinality Constraints are Hard for Resolution”\n\nCP/SAT Doctoral Program 2026, Lisboa.\nProof Complexity Workshop 2026, Lisboa.\n\n\nView slides"
+  }
+]
