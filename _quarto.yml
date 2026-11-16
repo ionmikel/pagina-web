@@ -6,10 +6,12 @@ website:
 
 format:
   html:
-    theme: flatly
-    css: styles.css
-    toc: false
-    page-layout: full
+  include-in-header:
+    text: <meta name="google-site-verification" content="3F2ykwkQ9VD66_CN29kNcEYQywcWLo0Gz2Asl3KFtgI" />
+  theme: flatly
+  css: styles.css
+  toc: false
+  page-layout: full
 
 execute:
   freeze: auto
